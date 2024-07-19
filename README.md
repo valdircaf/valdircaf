@@ -5,9 +5,11 @@
 ![Valdir Github Stats](https://github-readme-stats.vercel.app/api?username=valdircaf&show_icons=true&theme=dracula&count_private=true)
 
 ### Sobre mim
-Como desenvolvedor frontend, tenho experiência em criar soluções inovadoras que ajudam empresas a otimizar e agilizar seus processos. Sou capacitado no desenvolvimento de recursos e microserviços com os frameworks mais utilizados atualmente, como React.js e Angular 9+. Além disso, tenho sólido conhecimento em tecnologias de backend, como Java/Spring Boot e Node.js.
+♨️ Desenvolvedor Frontend que curte um Angular e Java.
 
-Autodidata em inglês, onde possuo nível B2.
+📝 Gosto de criar produtos e microserviços que agilizam os processos de empresas.
+
+🎸 Também sou músico e amo a música no geral.
 
 ### Tecnologias que utilizo
 
