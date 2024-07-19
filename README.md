@@ -5,11 +5,11 @@
 ![Valdir Github Stats](https://github-readme-stats.vercel.app/api?username=valdircaf&show_icons=true&theme=dracula&count_private=true)
 
 ### Sobre mim
-♨️ Desenvolvedor Frontend que curte um Angular e Java.
+♨️ Desenvolvedor Frontend que curte um Angular e Java
 
-📝 Gosto de criar produtos e microserviços que agilizam os processos de empresas.
+📝 Gosto de criar produtos e microserviços que agilizam os processos de empresas
 
-🎸 Também sou músico e amo a música no geral.
+🎸 Também sou músico e amo a música no geral 😃
 
 ### Tecnologias que utilizo
 
@@ -27,3 +27,13 @@
   <img alt='Git' src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img alt='PostgreSQL' src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
+
+<ul>
+  <li>
+    🌐 Gosto de trabalhar com aplicações Web
+  </li>
+  
+  <li>
+    🎯 Atualmente trabalho com Angular e Java, mas já trabalhei com React.js também!
+  </li>
+</ul>
